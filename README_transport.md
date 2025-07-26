@@ -24,4 +24,4 @@ Sensors capture data during transport. ESP8266 uploads it to the cloud. Alerts a
 See `main.ino` for sample code.
 
 **Circuit Diagram:**  
-(Placeholder image)
+available in 'circuit_diagram' image file
